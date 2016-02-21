@@ -1,0 +1,38 @@
+498 fg made
+981 fg attempted
+.508 fg %
+245 three made
+540 three attempted
+.454 three %
+248 ft made
+272 ft attempted
+.912 ft %
+44 off %
+223 def %
+267 total %
+329 ast
+10 blk
+107 stl
+100 personal fouls
+166 turnovrs
+1489 points
+
+
+498
+981
+.508
+245
+540
+.454
+248
+272
+.912
+44
+223
+267
+329
+10
+107
+100
+166
+1489

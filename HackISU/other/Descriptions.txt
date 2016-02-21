@@ -1,0 +1,66 @@
+ti: 	TS%
+		True Shooting Percentage\n
+		A statistic used to gauge 
+		shooting efficiency that 
+		takes into consideration 
+		points scored from three 
+		pointers, field goals and 
+		free-throws to get a measure 
+		of points scored each shooting 
+		attempt.
+
+ti:		eFG%
+		Effecting Field Goal Percentage: Adjusts for the fact that a 3-point FG is worth one more than a 2-point FG
+
+ti:		TOV%
+		Turnover Percentage: An estimate of turnovers per 100 plays.
+
+
+ti: 	AST/TOV
+		Assists to turnover ratio
+
+ti:		FTr
+		Free Throw Rate: Ratio of free throws to total shots
+
+ti: 	3Pr
+		3-Point Rate: Ratio of 3-point shots to total shots
+
+ti:		2Pr
+		2-Point Rate: Ratio of 2-point shots to total shots
+
+ti:		Field Goals Made
+
+ti: 	Field Goals Attempted
+
+ti: 	Field Goals Percentage
+
+ti: 	3-Point Shots Made
+
+ti: 	3-Point Shots Attempted
+3-Point Shots Percentage
+
+ti: 	Free Throws Made
+
+ti: 	Free Throws Attempted
+
+ti: 	Free Throw Percentage
+
+ti: 	Offensive Rebounds
+
+ti: 	Defensive Rebounds
+
+ti: 	Total Rebounds
+
+ti: 	Assists
+
+ti: 	Blocks
+
+ti: 	Steals
+
+ti: 	Personal Fouls
+
+ti: 	Turnovers
+
+ti:		Points
+
+ti: 	Minutes Played
