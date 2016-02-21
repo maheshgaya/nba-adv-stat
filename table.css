@@ -1,0 +1,60 @@
+/*css for table*/
+table.stat_table, #advanced_stat1, #advanced_stat2, 
+#advanced_stat3, #advanced_stat4, #advanced_stat5,
+#team_stat1, #team_stat2, #team_stat3, #team_stat4, 
+#team_stat5 {
+	border-style: ;
+	border-collapse: collapse;
+	border-spacing: 0px;
+	border: 1px solid black;
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 95%;
+}
+
+table.stat_table{
+	margin-left: 10px;
+}
+
+caption{
+	font-weight: bold;
+}
+
+th{
+	text-align: center;
+	border: 1px solid black;
+	padding: 5px 10px 5px;
+	font-size: 11pt;
+}
+
+thead{
+	background-color: rgba(30, 139, 195, 1.0);
+	color: white;
+}
+
+td {
+	text-align: center;
+	border: 1px solid black;
+	padding: 5px 10px 5px;
+}
+tbody{
+	background-color: rgba(103, 128, 159, 0.3);
+}
+
+
+
+/*advanced statistics table*/
+#advanced_stat1, #advanced_stat2, #advanced_stat3,
+#advanced_stat4, #advanced_stat5, #team_stat1, 
+#team_stat2, #team_stat3, #team_stat4, 
+#team_stat5 {
+	display: none;
+	margin-bottom: 10px;
+}
+
+
+/*show advanced statistics hyperlink*/
+a{
+	margin-left: 10px;
+	margin-bottom: 15%;
+}
